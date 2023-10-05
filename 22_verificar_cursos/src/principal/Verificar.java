@@ -1,6 +1,8 @@
 package principal;
 
 public class Verificar {
+	
+	//prueba paragithub
 	public static void main(String[] args) 
 		{
 			String cursos="Ofimatica,Java básico,JavaEE,Spring Boot,Angular,Programacion avanzada en Java";
